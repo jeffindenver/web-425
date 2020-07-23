@@ -1,5 +1,10 @@
-//author: Professor Krasso
-//modified by: Jeff Shepherd
+/**
+ * Title: composer.class.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 7/22/2020
+ * Description: composer class
+ */
 import { IComposer } from './composer.interface';
 
 export class Composer {

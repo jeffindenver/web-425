@@ -1,5 +1,10 @@
-//author: Professor Krasso
-//modified by: Jeff Shepherd
+/**
+ * Title: app.component.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 7/22/2020
+ * Description: app component
+ */
 import { Component } from '@angular/core';
 
 @Component({

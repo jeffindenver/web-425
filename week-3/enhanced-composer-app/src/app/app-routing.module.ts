@@ -1,5 +1,10 @@
-//author: Professor Krasso
-//modified by: Jeff Shepherd
+/**
+ * Title: app-routing.component.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 7/22/2020
+ * Description: app routing component
+ */
 
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';

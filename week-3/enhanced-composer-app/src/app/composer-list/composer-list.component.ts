@@ -1,5 +1,10 @@
-//author: Professor Krasso
-//modified by: Jeff Shepherd
+/**
+ * Title: composer-list.component.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 7/22/2020
+ * Description: composer-list component
+ */
 
 import { Component, OnInit } from '@angular/core';
 import { IComposer } from '../composer.interface';

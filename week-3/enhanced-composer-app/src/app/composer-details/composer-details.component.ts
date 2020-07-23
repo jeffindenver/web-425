@@ -1,5 +1,10 @@
-//author: Professor Krasso
-//modified by: Jeff Shepherd
+/**
+ * Title: composer-details.component.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 7/22/2020
+ * Description: composer-details component
+ */
 
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
