@@ -1,3 +1,10 @@
+/**
+ * Title: main.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 8/5/2020
+ * Description: main driver
+ */
 import { enableProdMode } from '@angular/core';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
