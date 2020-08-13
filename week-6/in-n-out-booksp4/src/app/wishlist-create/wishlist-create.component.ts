@@ -28,10 +28,8 @@ export class WishlistCreateComponent implements OnInit {
   addItem () {
     this.addItemEmitter.emit(
       {title: this.item.title, authors: this.item.authors}
-    )
+    );
 
-    //instructions say assign empty object to this.item
-    //but that was already done in the constructor
     this.item = {} as IWishlistItem;
   }
 
