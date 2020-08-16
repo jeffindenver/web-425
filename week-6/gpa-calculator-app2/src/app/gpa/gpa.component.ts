@@ -1,3 +1,11 @@
+/**
+ * Title: gpa.component.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 8/12/2020
+ * Description: gpa component
+ */
+
 import { Component, OnInit, Input } from '@angular/core';
 
 

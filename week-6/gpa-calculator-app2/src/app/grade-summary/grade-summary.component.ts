@@ -1,3 +1,11 @@
+/**
+ * Title: grade-summary.component.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 8/12/2020
+ * Description: app module
+ */
+
 import { Component, OnInit, Input } from '@angular/core';
 
 

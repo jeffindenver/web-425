@@ -1,3 +1,11 @@
+/**
+ * Title: app-routing.module.ts
+ * Author: Professor Krasso
+ * Modified by: Jeff Shepherd
+ * Date: 8/12/2020
+ * Description: app routing module
+ */
+
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { BaseLayoutComponent } from './base-layout/base-layout.component';
